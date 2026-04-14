@@ -212,12 +212,12 @@ export const MOCK_LESSONS: Lesson[] = [
 export const PLACEMENT_QUESTIONS: PlacementQuestion[] = [
   { id: 1, skill: "grammar", level: "A1", question: "She ___ a teacher.", options: ["am", "is", "are", "be"], correct: 1 },
   { id: 2, skill: "grammar", level: "A1", question: "I ___ to school every day.", options: ["go", "goes", "going", "gone"], correct: 0 },
-  { id: 3, skill: "vocabulary", level: "A1", question: "What does 'happy' mean in Vietnamese?", options: ["Buồn", "Tức giận", "Vui vẻ", "Mệt mỏi"], correct: 2 },
+  { id: 3, skill: "reading", level: "A1", question: "What does 'happy' mean in Vietnamese?", options: ["Buồn", "Tức giận", "Vui vẻ", "Mệt mỏi"], correct: 2 },
   { id: 4, skill: "grammar", level: "A2", question: "I ___ Paris in 2019.", options: ["have visited", "visited", "visit", "am visiting"], correct: 1 },
   { id: 5, skill: "grammar", level: "A2", question: "She ___ here for 3 years.", options: ["lived", "lives", "has lived", "is living"], correct: 2 },
-  { id: 6, skill: "vocabulary", level: "A2", question: "Choose the correct word: 'I need to ___ my report before the deadline.'", options: ["finish", "finished", "finishing", "finishes"], correct: 0 },
+  { id: 6, skill: "reading", level: "A2", question: "Choose the correct word: 'I need to ___ my report before the deadline.'", options: ["finish", "finished", "finishing", "finishes"], correct: 0 },
   { id: 7, skill: "grammar", level: "B1", question: "If I ___ more time, I would learn Japanese.", options: ["have", "had", "having", "has"], correct: 1 },
   { id: 8, skill: "grammar", level: "B1", question: "The report ___ by the manager yesterday.", options: ["wrote", "was written", "has written", "is written"], correct: 1 },
-  { id: 9, skill: "vocabulary", level: "B1", question: "'Despite the rain, they continued the match.' — 'Despite' means:", options: ["Because of", "Although", "In spite of", "Therefore"], correct: 2 },
+  { id: 9, skill: "reading", level: "B1", question: "'Despite the rain, they continued the match.' — 'Despite' means:", options: ["Because of", "Although", "In spite of", "Therefore"], correct: 2 },
   { id: 10, skill: "grammar", level: "B2", question: "Not only ___ late, but he also forgot his homework.", options: ["he was", "was he", "he is", "is he"], correct: 1 },
 ];
